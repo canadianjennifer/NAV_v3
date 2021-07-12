@@ -15,7 +15,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Change Assessment v7" />
+              <option name="title_text" value="Change Assessment v8" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -29,7 +29,7 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="resources" value="true" group="linkright" />
               <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
@@ -1549,16 +1549,21 @@
             <slidelink slideid="_player.6VacOa0CEBX.5wqZOk5xDvP" displaytext="Section 2" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.60a9LXzcDyz" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.60a9LXzcDyz.6pGNW6kG83N" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Nav_Canada.svg" image="story_content/6hwUfcYxj4B.png" title="Nav_Canada" />
-      <resource url="story_content/external_files/highchange.html" image="story_content/6BerPOfHZmQ.png" title="highchange" />
-      <resource url="story_content/external_files/lowchange.html" image="story_content/6ThU89U93y7.png" title="lowchange" />
-      <resource url="story_content/external_files/mediumchange.html" image="story_content/5yynVSUd3PV.png" title="mediumchange" />
-      <resource url="story_content/external_files/minimalchange.html" image="story_content/6eEQgr1adMY.png" title="minimalchange" />
+      <resource url="story_content/external_files/Nav_Canada.svg" image="story_content/694V1MbdBET.png" title="Nav_Canada" />
+      <resource url="story_content/external_files/highchange.html" image="story_content/6TrEb3zAmAe.png" title="highchange" />
+      <resource url="story_content/external_files/lowchange.html" image="story_content/6Th8V8AdE4H.png" title="lowchange" />
+      <resource url="story_content/external_files/mediumchange.html" image="story_content/5gp5pBtyOKs.png" title="mediumchange" />
+      <resource url="story_content/external_files/minimalchange.html" image="story_content/64KIUepklhB.png" title="minimalchange" />
     </resources>
   </resource_data>
   <transcript_data />
